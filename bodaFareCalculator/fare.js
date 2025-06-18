@@ -16,4 +16,6 @@ console.log("Mpaka Uko: KES", mpakaUko);
 console.log("Total: KES",totalFare);
 console.log("Panda Pikipiki!")
 
+calculateBodaFare(distanceInKm);
+
 

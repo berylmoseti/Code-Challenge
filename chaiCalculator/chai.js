@@ -24,3 +24,6 @@ if (!isNaN(numberOfCups) && numberOfCups > 0) {
 } else {
     console.log("Number should be greater than zero");
 }
+
+chaiCalc(numberOfCups);
+
